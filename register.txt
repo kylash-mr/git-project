@@ -1,0 +1,1 @@
+This is the registration page. It allows new users to sign up with their email, username, and password.

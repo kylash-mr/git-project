@@ -36,7 +36,7 @@ In this chapter, I explored Git's branching capabilities. Branches allow me to w
 This chapter simulates collaboration using forks and pull requests. By forking the repository, I worked on a separate branch and pushed changes via a pull request.
 
 ## Collaboration Workflow:
-1. Fork the repository - https://github.com/kylash-mr/learn-git-DevMountain
+1. Fork the repository - https://github.com/DevMountain/learn-git
 2. Clone it locally.
 3. Create a branch for updates.
 4. Push changes and open a Pull Request.

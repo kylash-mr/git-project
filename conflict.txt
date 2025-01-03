@@ -1,2 +1,9 @@
-Initial content of the file. 
+
 Updated content after merging the changes to main. Creating a merge conflict with this line addition.
+The below was the file state when the merge conflict occured.
+
+<<<<<< KAN-5/merge-conflict
+Initial content of the file. 
+
+Initial content.
+>>>>>> main

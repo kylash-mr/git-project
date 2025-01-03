@@ -1,5 +1,7 @@
 # Git Odyssey: Chapter 1 - The Repository of Origins
 
+This repo is also integrated with Jira at : https://kylash-mr.atlassian.net/
+
 ## Introduction
 In this chapter, I set the foundation of my Git journey. This includes initializing my first Git repository and making my first commit.
 

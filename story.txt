@@ -1,1 +1,2 @@
 The world of version control awaits! This repository holds the secrets of Git, a powerful tool for tracking changes and managing collaborative workflows. My first step begins now.
+I am now exploring the mysteries of stashing. This feature helps me to temporarily set aside my changes and continue my work elsewhere.

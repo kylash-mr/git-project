@@ -30,3 +30,19 @@ In this chapter, I explored Git's branching capabilities. Branches allow me to w
 - `git checkout`
 - `git merge`
 - `git branch -d`
+# Git Odyssey: Chapter 3 - The Collaboration Treaty
+
+## Introduction
+This chapter simulates collaboration using forks and pull requests. By forking the repository, I worked on a separate branch and pushed changes via a pull request.
+
+## Collaboration Workflow:
+1. Fork the repository - https://github.com/kylash-mr/learn-git-DevMountain
+2. Clone it locally.
+3. Create a branch for updates.
+4. Push changes and open a Pull Request.
+
+## Commands Used:
+- `git fork`
+- `git clone`
+- `git branch`
+- `git push`

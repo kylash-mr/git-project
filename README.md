@@ -15,3 +15,18 @@ In this chapter, I set the foundation of my Git journey. This includes initializ
 - `git add`
 - `git commit`
 
+# Git Odyssey: Chapter 2 - The Branching Realms
+
+## Introduction
+In this chapter, I explored Git's branching capabilities. Branches allow me to work on features or changes without affecting the main codebase.
+
+## Tasks Completed:
+- Created branches `feature-login` and `feature-register`.
+- Merged both branches into `main`.
+- Resolved merge conflicts.
+
+## Commands Used:
+- `git branch`
+- `git checkout`
+- `git merge`
+- `git branch -d`

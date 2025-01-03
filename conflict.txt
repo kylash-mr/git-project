@@ -1,2 +1,2 @@
-Initial content of the file. 
+Initial content.
 Updated content after merging the changes to main. Creating a merge conflict with this line addition.

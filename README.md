@@ -52,11 +52,6 @@ Scenario: Feature Development with Multiple Commits
 This scenario helps to learn git squash command to merge multiple commits into a single commit.
 
 ## Commands Used:
-<<<<<<< HEAD
-- `git squash`
 - `git rebase`
 - `git log`
-=======
-- `git log`
-- `git rebase`
->>>>>>> refs/remotes/origin/KAN-8-Learning-git-squash
+

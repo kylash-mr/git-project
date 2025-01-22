@@ -46,3 +46,11 @@ This chapter simulates collaboration using forks and pull requests. By forking t
 - `git clone`
 - `git branch`
 - `git push`
+
+# Git Odyssey: Chapter 4 - The Squash Chronicles
+Scenario: Feature Development with Multiple Commits
+This scenario helps to learn git squash command to merge multiple commits into a single commit.
+
+## Commands Used:
+- `git log`
+- `git rebase`

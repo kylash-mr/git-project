@@ -54,3 +54,4 @@ This scenario helps to learn git squash command to merge multiple commits into a
 ## Commands Used:
 - `git squash`
 - `git rebase`
+- `git log`
